@@ -1,0 +1,3 @@
+product_url_list = [
+    'https://www.aliexpress.us/item/3256806601989901.html?dp=c87866dc42811023bc3b7e74e1764e64&af=132752&cv=47843&afref=https%3A%2F%2Fsearchbyimage.com%2F&mall_affr=pr3&utm_source=admitad&utm_medium=cpa&utm_campaign=132752&utm_content=47843&dp=c87866dc42811023bc3b7e74e1764e64&af=132752&cv=47843&afref=https%3A%2F%2Fsearchbyimage.com%2F&mall_affr=pr3&utm_source=admitad&utm_medium=cpa&utm_campaign=132752&utm_content=47843&aff_fcid=3e1f8c3ff3204b938eec5ad2e1f8267e-1719070585993-02700-_ePNSNV&aff_fsk=_ePNSNV&aff_platform=portals-tool&sk=_ePNSNV&aff_trace_key=3e1f8c3ff3204b938eec5ad2e1f8267e-1719070585993-02700-_ePNSNV&terminal_id=bffddeb07d5d4b738d2df7c1b02cf376&afSmartRedirect=y&gatewayAdapt=glo2usa',
+]
